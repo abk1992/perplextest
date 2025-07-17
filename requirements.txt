@@ -5,3 +5,5 @@ yfinance
 scikit-learn
 tensorflow==2.13.0
 matplotlib
+pmdarima
+statsmodels
