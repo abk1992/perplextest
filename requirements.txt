@@ -5,7 +5,7 @@ seaborn
 scipy
 statsmodels
 scikit-learn
-tensorflow
+tensorflow==2.13.0
 yfinance
 arch
 streamlit 
